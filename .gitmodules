@@ -30,7 +30,7 @@
 	url = git@github.com:scipion-em/scipion-em-grigoriefflab.git
 [submodule "scipion-em-xmipp"]
 	path = scipion-em-xmipp
-	url = git@github.com:scipion-em/scipion-em-xmipp.git
+	url = git@github.com:I2PC/scipion-em-xmipp.git
 [submodule "scipion-em-ispyb"]
 	path = scipion-em-ispyb
 	url = git@github.com:scipion-em/scipion-em-ispyb.git

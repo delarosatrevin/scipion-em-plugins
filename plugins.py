@@ -74,7 +74,8 @@ def createEnvironment():
     env = Environment()
     # some targets are needed by some modules, even if we are
     # not going to install them
-    for t in ['pip', 'python', 'numpy', 'scipy', 'fftw3', 'arpack']:
+    for t in ['pip', 'python', 'numpy', 'scipy', 'fftw3', 'arpack', 
+              'hdf5']:
         env.addTarget(t)
 
     return env
